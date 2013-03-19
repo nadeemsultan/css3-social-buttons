@@ -134,7 +134,7 @@ div{
 	background: url(images/dribbble.png) center center no-repeat, -o-linear-gradient(top, #733c6c, #582152);
 	background: url(images/dribbble.png) center center no-repeat, linear-gradient(to bottom, #733c6c, #582152);
 	/*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#733c6c', endColorstr='#582152',GradientType=0 );*/
-	background-color: #156821;
+	background-color: #733c6c;
 	border-radius: 10px;
 	display: inline-block;
 	-webkit-transition: all .2s ease-in-out;
@@ -154,7 +154,7 @@ div{
 	background: url(images/dribbble.png) center center no-repeat, -o-linear-gradient(top, #582152, #733c6c);
 	background: url(images/dribbble.png) center center no-repeat, linear-gradient(to bottom, #582152, #733c6c);
 	/*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#582152', endColorstr='#302f79',GradientType=0 );*/
-	background-color: #156821;
+	background-color: #733c6c;
 	-webkit-box-shadow: inset 0px 0px 20px #000;
 	-moz-box-shadow: inset 0px 0px 20px #000;
 	box-shadow: inset 0px 0px 20px #000;
@@ -170,7 +170,7 @@ div{
 	background: url(images/youtube.png) center center no-repeat, -o-linear-gradient(top, #5d2121, #420707);
 	background: url(images/youtube.png) center center no-repeat, linear-gradient(to bottom, #5d2121, #420707);
 	/*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5d2121', endColorstr='#420707',GradientType=0 );*/
-	background-color: #156821;
+	background-color: #5d2121;
 	border-radius: 10px;
 	display: inline-block;
 	-webkit-transition: all .2s ease-in-out;
@@ -190,7 +190,7 @@ div{
 	background: url(images/youtube.png) center center no-repeat, -o-linear-gradient(top, #420707, #5d2121);
 	background: url(images/youtube.png) center center no-repeat, linear-gradient(to bottom, #420707, #5d2121);
 	/*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#420707', endColorstr='#302f79',GradientType=0 );*/
-	background-color: #156821;
+	background-color: #5d2121;
 	-webkit-box-shadow: inset 0px 0px 20px #000;
 	-moz-box-shadow: inset 0px 0px 20px #000;
 	box-shadow: inset 0px 0px 20px #000;
